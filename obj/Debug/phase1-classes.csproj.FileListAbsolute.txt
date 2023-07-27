@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\phase1-classes\phase1-classes\bin\Debug\phase1-classes.exe.config
+C:\Users\Admin\source\repos\phase1-classes\phase1-classes\bin\Debug\phase1-classes.exe
+C:\Users\Admin\source\repos\phase1-classes\phase1-classes\bin\Debug\phase1-classes.pdb
+C:\Users\Admin\source\repos\phase1-classes\phase1-classes\obj\Debug\phase1-classes.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\phase1-classes\phase1-classes\obj\Debug\phase1-classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\phase1-classes\phase1-classes\obj\Debug\phase1-classes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\phase1-classes\phase1-classes\obj\Debug\phase1-classes.exe
+C:\Users\Admin\source\repos\phase1-classes\phase1-classes\obj\Debug\phase1-classes.pdb
